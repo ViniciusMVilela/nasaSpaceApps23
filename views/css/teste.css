@@ -136,6 +136,11 @@ h1 {
     cursor: pointer;
     }
 
+  #close-modal a {
+    color: white;
+    text-decoration: none;
+  }
+
     #features {
         width: 100%;
         background: #fff;
